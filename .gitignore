@@ -59,3 +59,6 @@ XCODE_bulid/
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+# packages(too big)
+packages/
